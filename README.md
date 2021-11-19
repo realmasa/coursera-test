@@ -1,2 +1,2 @@
 # coursera-test
-learning code
+coursera-test
